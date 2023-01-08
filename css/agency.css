@@ -355,6 +355,10 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+    
+    div .team-member > img {
+  max-width: 200px;
+}
 }
 
 section {
@@ -380,6 +384,9 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+    div .team-member > img {
+  max-width: 150px;
+}
 }
 
 .service-heading {
